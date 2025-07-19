@@ -5,4 +5,4 @@ Steps:
 1. Setup Claude locally, you can download and install Claude from https://claude.ai/download based on the OS you are using
 2. Python SDK - https://github.com/modelcontextprotocol/python-sdk
 3. We will be requiring initial setup to run and install mcp locally.
-4. 'UV' is the rust package manager for python, which is flexible and faster compare to others so we will be using uv.
+4. 'UV' is the rust package manager for python, which is flexible and faster compare to others so we will be using uv. Refer https://github.com/tarunwalia/mcp/blob/main/install-uv-pkg-manager
